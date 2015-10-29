@@ -1,0 +1,6 @@
+c:\users\igor\documents\visual studio 2013\Projects\tasks\OOP_Lab1\OOP_Lab1\bin\Debug\OOP_Lab1.exe.config
+C:\Users\Igor\documents\visual studio 2013\Projects\tasks\OOP_Lab1\OOP_Lab1\bin\Debug\OOP_Lab1.exe
+C:\Users\Igor\documents\visual studio 2013\Projects\tasks\OOP_Lab1\OOP_Lab1\bin\Debug\OOP_Lab1.pdb
+C:\Users\Igor\documents\visual studio 2013\Projects\tasks\OOP_Lab1\OOP_Lab1\obj\Debug\OOP_Lab1.csprojResolveAssemblyReference.cache
+C:\Users\Igor\documents\visual studio 2013\Projects\tasks\OOP_Lab1\OOP_Lab1\obj\Debug\OOP_Lab1.exe
+C:\Users\Igor\documents\visual studio 2013\Projects\tasks\OOP_Lab1\OOP_Lab1\obj\Debug\OOP_Lab1.pdb
